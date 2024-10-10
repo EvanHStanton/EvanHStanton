@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Evan and I'm a big fan of turning over stones to appreciate the universe(s) underneath!
+
+I've got a [blog](https://stanev.dev) where I write about topics such as neuroscience, tech, and open source software.
+
+I'm also active on [Fosstodon](https://fosstodon.org/@ehstanton) -- check it out! 
+
 <!--
 **EvanHStanton/EvanHStanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
